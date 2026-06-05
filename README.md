@@ -2,7 +2,7 @@
   <img src="banner.gif" alt="banner" width="100%"/>
 </div>
    
-                  CS undergrad from India | Web3, ML & open source — building things that shouldn't exist yet
+                CS undergrad from India | Web3, ML & open source — building things that shouldn't exist yet
 
 ---
 
