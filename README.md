@@ -1,5 +1,3 @@
-<img src="banner.gif" width="100%" alt="banner"/>
-
 <div align="center">
   <img src="banner.gif" alt="banner" width="100%"/>
 </div>
