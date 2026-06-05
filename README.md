@@ -1,8 +1,8 @@
 <div align="center">
   <img src="banner.gif" alt="banner" width="100%"/>
 </div>
-
-    CS undergrad from India | Web3, ML & open source — building things that shouldn't exist yet
+   
+                  CS undergrad from India | Web3, ML & open source — building things that shouldn't exist yet
 
 ---
 
@@ -17,7 +17,6 @@ Beyond projects, I'm actively solving DSA, exploring open source, and looking fo
 ## Connect
 
 - **GitHub:** [shourya011](https://github.com/shourya011)
-- **Email:** shouryano01@gmail.com
 - **LeetCode:** [shouryano01](https://leetcode.com/u/shouryano01/)
 
 ---
