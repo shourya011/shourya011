@@ -19,6 +19,4 @@ Beyond projects, I'm actively solving DSA, exploring open source, and looking fo
 - **GitHub:** [shourya011](https://github.com/shourya011)
 - **LeetCode:** [shouryano01](https://leetcode.com/u/shouryano01/)
 
----
 
-> *"build first, figure it out later."*
