@@ -2,15 +2,13 @@
   <img src="banner.gif" alt="banner" width="100%"/>
 </div>
    
-                CS undergrad from India | Web3, ML & open source — building things that shouldn't exist yet
-
 ---
 
 ## About Me
 
-I build real-world projects — from a **decentralized Web3 time capsule** on Ethereum L2 to a **real-time Indian Sign Language translator** with 84%+ accuracy.
-
-Beyond projects, I'm actively solving DSA, exploring open source, and looking for a software internship where I can learn from real codebases and ship meaningful work.
+I like building things that are a little ambitious. Right now that means a decentralized Web3 time capsule running on Ethereum L2, and a real-time Indian Sign Language translator that actually works — 84%+ accuracy, no gimmicks.
+When I'm not shipping projects, I'm grinding DSA, leveling up my backend skills, and getting comfortable with databases. I also poke around open source when I find something worth contributing to.
+What I'm looking for next: a software internship where I can learn from real codebases, work with people who know more than me, and ship things that actually matter — not just tutorials.
 
 ---
 
