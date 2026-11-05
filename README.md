@@ -18,5 +18,3 @@ What I'm looking for next: a software internship where I can learn from real cod
 
 - **GitHub:** [shourya011](https://github.com/shourya011)
 - **LeetCode:** [shouryano01](https://leetcode.com/u/shouryano01/)
-
-
